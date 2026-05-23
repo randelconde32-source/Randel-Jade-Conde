@@ -10,5 +10,5 @@
 | student | Engineering student
 
 **'skills'**
-stapa
-playing basketball
+stapa🤡
+playing basketball🏀
